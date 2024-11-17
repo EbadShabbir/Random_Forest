@@ -36,5 +36,13 @@ The following Python libraries are required:
 
 Install them using:
 
-```bash
-pip install numpy pandas matplotlib scikit-learn
+
+`pip install numpy pandas matplotlib scikit-learn`
+
+
+### Instructions for Usage:
+- Replace `path/to/training_visualization.png` and `path/to/test_visualization.png` with the paths to your generated images if you save them as files.
+- Include the `.csv` dataset in the same directory as your script or adjust the path accordingly.
+
+Let me know if you need further clarification or adjustments!
+
